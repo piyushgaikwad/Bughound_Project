@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?><rss version='2.0'>
+<AREAS>
+<AREA><area_id>1036</area_id><prog_id>1013</prog_id><area>Ada95 Parser</area></AREA>
+<AREA><area_id>1037</area_id><prog_id>1013</prog_id><area>Ada95 Lexer</area></AREA>
+<AREA><area_id>1038</area_id><prog_id>1013</prog_id><area>ADA95 IDE</area></AREA>
+<AREA><area_id>1044</area_id><prog_id>1014</prog_id><area>Logon</area></AREA>
+<AREA><area_id>1045</area_id><prog_id>1014</prog_id><area>start</area></AREA>
+<AREA><area_id>1046</area_id><prog_id>1014</prog_id><area>DB Maintenence</area></AREA>
+<AREA><area_id>1047</area_id><prog_id>1014</prog_id><area>Search</area></AREA>
+<AREA><area_id>1048</area_id><prog_id>1014</prog_id><area>Insert New</area></AREA>
+<AREA><area_id>1049</area_id><prog_id>1014</prog_id><area>Search Results</area></AREA>
+<AREA><area_id>1050</area_id><prog_id>1014</prog_id><area>Add edit Areas</area></AREA>
+<AREA><area_id>1051</area_id><prog_id>1014</prog_id><area>Add Employees</area></AREA>
+<AREA><area_id>1052</area_id><prog_id>1014</prog_id><area>Add Programs</area></AREA>
+<AREA><area_id>1053</area_id><prog_id>1014</prog_id><area>view bugs</area></AREA>
+<AREA><area_id>1054</area_id><prog_id>1015</prog_id><area>Lexer</area></AREA>
+<AREA><area_id>1055</area_id><prog_id>1015</prog_id><area>Parser</area></AREA>
+<AREA><area_id>1056</area_id><prog_id>1015</prog_id><area>Code generator</area></AREA>
+<AREA><area_id>1057</area_id><prog_id>1015</prog_id><area>Linker</area></AREA>
+<AREA><area_id>1058</area_id><prog_id>1020</prog_id><area>Lexer</area></AREA>
+<AREA><area_id>1059</area_id><prog_id>1020</prog_id><area>Parser</area></AREA>
+<AREA><area_id>1060</area_id><prog_id>1020</prog_id><area>Code generator</area></AREA>
+<AREA><area_id>1061</area_id><prog_id>1020</prog_id><area>Linker</area></AREA>
+<AREA><area_id>1062</area_id><prog_id>1017</prog_id><area>Lexer</area></AREA>
+<AREA><area_id>1063</area_id><prog_id>1017</prog_id><area>Parser</area></AREA>
+<AREA><area_id>1064</area_id><prog_id>1017</prog_id><area>Code generator</area></AREA>
+<AREA><area_id>1065</area_id><prog_id>1017</prog_id><area>Linker</area></AREA>
+<AREA><area_id>1066</area_id><prog_id>1017</prog_id><area>IDE</area></AREA>
+<AREA><area_id>1069</area_id><prog_id>1018</prog_id><area>Lexer</area></AREA>
+<AREA><area_id>1070</area_id><prog_id>1018</prog_id><area>Parser</area></AREA>
+<AREA><area_id>1071</area_id><prog_id>1018</prog_id><area>Code generator</area></AREA>
+<AREA><area_id>1072</area_id><prog_id>1018</prog_id><area>IDE</area></AREA>
+<AREA><area_id>1073</area_id><prog_id>1019</prog_id><area>Editor</area></AREA>
+<AREA><area_id>1074</area_id><prog_id>1019</prog_id><area>spell checeker</area></AREA>
+<AREA><area_id>1075</area_id><prog_id>1019</prog_id><area>Dynodraw</area></AREA>
+<AREA><area_id>1076</area_id><prog_id>1019</prog_id><area>formulator</area></AREA>
+<AREA><area_id>1077</area_id><prog_id>1014</prog_id><area>Export</area></AREA>
+</AREAS>
+</rss>
